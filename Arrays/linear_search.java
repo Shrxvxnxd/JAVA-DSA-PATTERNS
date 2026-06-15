@@ -1,6 +1,6 @@
 import java.util.*;
 //linear search of array elements
-public class Main {
+public class linear_search {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

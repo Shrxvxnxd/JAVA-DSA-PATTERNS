@@ -1,6 +1,6 @@
 import java.util.*;
 //Sum of array elements
-public class Main {
+public class sumofelements {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

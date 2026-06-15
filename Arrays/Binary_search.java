@@ -1,6 +1,6 @@
 import java.util.*;
 //Binary Search of array of elements...
-public class Main {
+public class Binary_search {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
